@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Link } from 'react-scroll'; // Import Link for smooth scrolling
+import { useState, useEffect } from 'react';
+import { Link } from 'react-scroll';
 import './Navbar.css';
 import logo from '../../assets/logo.png';
 import menu_icon from '../../assets/menu-icon.png';
